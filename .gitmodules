@@ -1,0 +1,3 @@
+[submodule "data/police-github"]
+	path = data/police-github
+	url = git@github.com:police-github/police-github.github.io.git
